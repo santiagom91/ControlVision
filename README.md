@@ -1,7 +1,7 @@
 # Control Vision Examples
 This repository contains principals methods of Control Vision in python.
 
-There are some examples of pose estimation an hand tracking using in real time the webcam.
+There are some examples of pose estimation an hand tracking using the webcam in real time.
 
 Install mediapipe and run the code.
 
