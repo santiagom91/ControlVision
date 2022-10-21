@@ -12,7 +12,7 @@ mp_hands = mp.solutions.mediapipe.python.solutions.hands
 hands = mp_hands.Hands()
 mp_draw = mp.solutions.drawing_utils
 
-cap = cv2.VideoCapture(0) # con 1 non funziona
+cap = cv2.VideoCapture(0) # test with 0,1,2 depend where is located your webcam
 
 mpHands = mp.solutions.hands
 hands = mpHands.Hands()
