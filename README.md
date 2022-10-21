@@ -1,5 +1,5 @@
 # Control Vision Examples
-This repository contains principals mithods of Control Vision in python.
+This repository contains principals methods of Control Vision in python.
 
 
 Some examples of pose estimation an hand tracking using mediapipe.
